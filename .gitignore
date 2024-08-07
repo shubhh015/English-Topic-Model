@@ -1,0 +1,7 @@
+/.ipynb_checkpoints
+/Datasets
+/movie_rec/movie_rec_run.mp4
+/WikiCorpus
+enwiki-latest-pages-articles.xml.bz2
+temp.ipynb
+train_lda_model.ipynb
